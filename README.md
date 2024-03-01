@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm BHARATH!</h1>
-<h3 align="center">A passionate Data/Business Analyst</h3>
 
 <p align="center">
   <strong> Data Analyst | Business Analyst | Business Data/Intelligence Developer </strong>
